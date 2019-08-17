@@ -1,3 +1,13 @@
-body {
-    background-color: cyan;
+h2 {
+    text-align: center;
+}
+
+#guldan {
+    text-align: center;
+    font-family: "warcraft"
+}
+
+@font-face {
+	font-family: "Warcraft";
+	src: url('../LifeCraft.ttf');
 }
