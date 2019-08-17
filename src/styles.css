@@ -1,3 +1,7 @@
 html body {
-    background-color: cyan;
+    background-color: #27A79A;
+}
+
+#entete{
+    text-align:center;
 }

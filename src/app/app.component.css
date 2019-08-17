@@ -2,12 +2,6 @@ h2 {
     text-align: center;
 }
 
-#guldan {
+.iframe{
     text-align: center;
-    font-family: "warcraft"
-}
-
-@font-face {
-	font-family: "Warcraft";
-	src: url('../LifeCraft.ttf');
 }
