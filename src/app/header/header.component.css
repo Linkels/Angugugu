@@ -2,4 +2,5 @@
     width: 100%;
     position: fixed;
     background-color: #27A79A;
+    z-index: 2000;
 }
